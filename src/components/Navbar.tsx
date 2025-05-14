@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-xl font-bold text-gray-900">
-              <span className="text-indigo-600">INTERIORS</span>PRO
+              <span className="text-indigo-600">PKS</span>INTERIORS
             </Link>
           </div>
           <div className="hidden md:block">

@@ -10,8 +10,8 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="md:col-span-1">
             <Link to="/" className="text-xl font-bold flex items-center mb-4">
-              <span className="text-indigo-400">INTERIORS</span>
-              <span className="text-white">PRO</span>
+              <span className="text-indigo-400">PKS</span>
+              <span className="text-white">INTERIORS</span>
             </Link>
             <p className="text-gray-400 mb-6">
               Transforming spaces with premium interior solutions since 2010. Quality craftsmanship for homes and businesses.
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <Mail size={18} className="text-indigo-400 mt-1 mr-3" />
-                <span>info@interiorspro.com</span>
+                <span>info@pksinteriors.com</span>
               </li>
               <li className="flex items-start">
                 <MapPin size={18} className="text-indigo-400 mt-1 mr-3" />
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} InteriorsPro. All rights reserved.
+              &copy; {new Date().getFullYear()} PKS INTERIORS. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <span className="text-gray-400 text-sm hover:text-white transition-colors">

@@ -6,7 +6,7 @@ const About: React.FC = () => {
   return (
     <div>
       <Hero
-        title="About InteriorsPro"
+        title="About PKS INTERIORS"
         subtitle="Professional interior solutions since 2010"
         backgroundImage="https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         size="md"
@@ -19,7 +19,7 @@ const About: React.FC = () => {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-lg text-gray-600 mb-4">
-                Founded in 2010, InteriorsPro began as a small family business specializing in residential wall painting. Over the years, we have grown into a comprehensive interior solutions provider, expanding our services to include rain proofing, texture finishes, wall repair, and ceiling work.
+                Founded in 2010, PKS INTERIORS began as a small family business specializing in residential wall painting. Over the years, we have grown into a comprehensive interior solutions provider, expanding our services to include rain proofing, texture finishes, wall repair, and ceiling work.
               </p>
               <p className="text-lg text-gray-600 mb-4">
                 Our journey has been marked by a steadfast commitment to quality, craftsmanship, and customer satisfaction. What started as a passion project has evolved into a trusted name in the industry, serving both residential and commercial clients across the region.
@@ -101,7 +101,7 @@ const About: React.FC = () => {
                 name: 'David Anderson',
                 position: 'Founder & CEO',
                 image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-                bio: 'With over 20 years of experience in interior solutions, David founded InteriorsPro with a vision to transform spaces with premium quality work.',
+                bio: 'With over 20 years of experience in interior solutions, David founded PKS INTERIORS with a vision to transform spaces with premium quality work.',
               },
               {
                 name: 'Sarah Johnson',
@@ -158,7 +158,7 @@ const About: React.FC = () => {
               {
                 year: '2010',
                 title: 'Company Founded',
-                description: 'InteriorsPro was established as a specialized wall painting service.',
+                description: 'PKS INTERIORS was established as a specialized wall painting service.',
               },
               {
                 year: '2013',
